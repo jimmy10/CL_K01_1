@@ -4,8 +4,9 @@
 /*kadaiFK01_1*/
 
 void main(void){
-	int a,b;
+	int a,b,c;
 	a=20;
 	b=37;
-	printf("%d - %d = %d\n", a,b,a-b);
+	c=21;
+	printf("%d - %d + %d = %d\n", a,b,c,a-b+c);
 }
