@@ -4,7 +4,8 @@
 /*kadaiFK01_1*/
 
 void main(void){
-	int sum;
-	sum = 20-37;
-	printf("20 - 37 = %d\n", sum);
+	int a,b;
+	a=20;
+	b=37;
+	printf("%d - %d = %d\n", a,b,a-b);
 }
